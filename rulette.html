@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="rulette.css">
+  <script src="buzz.js"></script>
+  <script src="rulette.js" defer></script>
+  <!--[if IE]><script type="text/javascript" src="/sites/default/files/1010/source/excanvas.js"></script><![endif]-->
+</head>
+<body>
+  <canvas id="wheelcanvas" width="500" height="500" ></canvas>
+  <div id="all">
+    <div id="left" style="position:absolute;top:10px;left:10px;font-size:80px;text-align:center;width:200px;height:200px;padding-top:60px;">
+    </div>
+  </div>
+  <script>
+
+    var spinning = false;
+    function checkSpinning() {
+      if (spinning === true) {
+        wheelcanvas.removeEventListener('click', function() {
+          spin();
+        }, false);
+      } else {
+        spin();
+      }
+    }
+
+    wheelcanvas.addEventListener('click', function() {
+      checkSpinning();
+    }, false);
+
+  </script>
+</body>
+</html>
+
+

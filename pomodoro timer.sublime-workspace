@@ -1,0 +1,1331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tai",
+				"taistelujaskaSound"
+			],
+			[
+				"ta",
+				"Taistelujaska"
+			],
+			[
+				"b",
+				"buzz"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"clear",
+				"clearInnerCircle"
+			],
+			[
+				"P",
+				"PI"
+			],
+			[
+				"is",
+				"isBreak"
+			],
+			[
+				"rotat",
+				"rotateWheel"
+			],
+			[
+				"draw",
+				"drawRouletteWheel"
+			],
+			[
+				"text",
+				"textAlign"
+			],
+			[
+				"timoe",
+				"setTimeout"
+			],
+			[
+				"he",
+				"Heppakoira"
+			],
+			[
+				"countdown",
+				"countdownTimer"
+			],
+			[
+				"cou",
+				"countdownMins"
+			],
+			[
+				"time",
+				"timeCountdown"
+			],
+			[
+				"seconds",
+				"secondPassed"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"type",
+				"type=  (attribute)"
+			],
+			[
+				"fi",
+				"fillText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rulette.html",
+			"settings":
+			{
+				"buffer_size": 1155,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "rulette.js",
+			"settings":
+			{
+				"buffer_size": 8726,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"selected_items":
+		[
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"block ",
+				"Toggle Block Comment"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"toggle co",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"toggle comm",
+				"Toggle Comment"
+			],
+			[
+				"togg",
+				"Toggle Block Comment"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"hih vi",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"high",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"files",
+				"File: Save All"
+			],
+			[
+				"indeln",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"aligne",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alig",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ky",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"exit",
+				"Set Syntax: Textile"
+			],
+			[
+				"destroy current",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"create right",
+				"Origami: Create Pane with File on the Right"
+			],
+			[
+				"destroy left",
+				"Origami: Destroy Pane on the Left"
+			],
+			[
+				"create pane on ",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"orig",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"move",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"zoom",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"unzoo",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"current pane",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"destr",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"ori",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"defaul",
+				"Preferences: Settings - Default"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"visibili",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"visibi",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"brack high vis",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"report",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"linter to",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"clear ca",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"linter dis",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lint this ",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"linter mo",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"linter file",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"isntall ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"togge linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"bl",
+				"Toggle Block Comment"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"BLOCK",
+				"Toggle Block Comment"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"defau",
+				"Preferences: Settings - Default"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"USER",
+				"Preferences: Settings - User"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 658.0,
+		"history":
+		[
+			"sublime.log_input(True)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/henri_000/Dropbox/Pomodoro timer"
+	],
+	"file_history":
+	[
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/rulette.css",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/rulette.html",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/Final Fantasy 6 Victory Fanfare.mp3",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/bootstrap-responsive.css",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/alarm.mp3",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/rockPaperScissors.js",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/scratchpad.js",
+		"/C/Users/henri_000/Documents/Cellraid Ltd Business Plan 3.3 ESKO_Henkan kommentit.xfdf",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/C/Program Files (x86)/DomDomSoft Manga Downloader/Config/Bookmarks",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/roulette.min.js",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/rulette.js",
+		"/C/Users/henri_000/Downloads/nico-list_korjattu.csv",
+		"/D/Nico-asiakaslista-utf8-pilkut.csv",
+		"/C/Users/henri_000/Downloads/Nico-asiakaslista_utf8.txt",
+		"/C/Users/henri_000/Downloads/nico-list_korjattu_2.csv",
+		"/C/Users/henri_000/Downloads/RT-AC56U_3.0.0.4_376.47_0/README-merlin.txt",
+		"/C/switcherDelayStart.bat",
+		"/C/Users/henri_000/switcherDelayStart2.bat",
+		"/C/Users/henri_000/invisible.vbs",
+		"/C/Users/henri_000/switchDelayStart.bat",
+		"/C/Users/henri_000/Documents/reg reg/windowmetrics old.reg",
+		"/C/Users/henri_000/AppData/Roaming/Bao_Nguyen/Switcher.exe_Url_qa5i3p42aomuvoxpuxuficvbmngksgjs/2.0.0.0/user.config",
+		"/C/Users/henri_000/Documents/reg reg/windowborders.reg",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/roskaa.js",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/ticking.mp3",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/pie_timer.js",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/pomodoro.html",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/bootstrap.css",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/buzz.js",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Aprosopo/README.md",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Aprosopo/Main.sublime-menu",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Aprosopo/Aprosopo Dark@st3.sublime-theme",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Aprosopo/Theme - Aprosopo.sublime-settings",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Aprosopo.sublime-package",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/User/Widget - Aprosopo Dark@st3.sublime-settings",
+		"/C/Users/henri_000/AppData/Roaming/Microsoft/Windows/Recent/Widget - Aprosopo Dark@st3.sublime-settings.lnk",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/loop.js",
+		"/C/Users/henri_000/Dropbox/ticking.mp3",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/roulette2.html",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/star.png",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/candy.png",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/coin.png",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/chomp.png",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/demo.css",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/demo.html",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/demo.js",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/dig0.png",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/flower.png",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/glyphicons-halflings.png",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/mshroom.png",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/roulette.js",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/random.png",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/.idea/Pomodoro timer.iml",
+		"/C/Users/henri_000/Dropbox/Pomodoro timer/.idea/encodings.xml",
+		"/C/Users/henri_000/Documents/sample/roulette2.html",
+		"/C/Users/henri_000/Documents/sample/roulette.js",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch10/TextNodeExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch07/ThisObjectExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/test",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/dragonSlayer.js",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/BooleanExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/UndefinedExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/UnaryPlusMinusExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch12/UserDataExample.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch14/InputFieldPatternValidationExample01.htm",
+		"/C/Windows/System32/energy-report.html",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/UnsignedRightShiftExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch19/UsageExample01.htm",
+		"/C/Program Files (x86)/TETRAsim/Technical Platform/Training/R_EADS_Series_880i/1. Perustoiminnot.dll",
+		"/C/ProgramData/TETRAsim/TSC/Trainings.dat",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch16/DragAndDropExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch15/2DFillRectExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/demo.js",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch15/2DGlobalCompositeOperationExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/BitwiseAndExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch08/blue.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/.idea/professional-javascript.iml",
+		"/C/Users/henri_000/Documents/professional-javascript/.idea/.name",
+		"/C/Windows/Logs/CBS/CBS.log",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch13/KeyboardEventsExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch13/KeyUpEventExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/kikkelis.js",
+		"/C/Users/henri_000/Dropbox/Sublime settings/Package Control.sublime-settings",
+		"/C/Users/henri_000/Dropbox/Sublime settings/Preferences.sublime-settings",
+		"/C/Users/henri_000/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch19/ParsingAndSerializationExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch21/JSONPExample01.htm",
+		"/C/Users/henri_000/Dropbox/Sänkykuvat/Sänkyteksti.txt",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/DivideExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/ForInStatementExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/index.html",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch03/demo.html",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DomXPathExample08.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DomXPathExample07.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/IEXmlDomExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/IEXmlDomExample02.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DomXPathExample06.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DomXPathExample05.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DomXPathExample04.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DomXPathExample03.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DomXPathExample02.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DomXPathExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DOMParserExample02.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch18/DOMParserExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch17/TryCatchExample02.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch17/TryCatchExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch15/DataViewExample02.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch15/DataViewExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch14/SelectboxExample06.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch14/SelectboxExample05.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch14/SelectboxExample04.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch14/SelectboxExample03.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch14/SelectboxExample02.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch14/SelectboxExample01.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch10/TextNodeExample06.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch10/TextNodeExample05.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch10/TextNodeExample04.htm",
+		"/C/Users/henri_000/Documents/professional-javascript/Ch10/TextNodeExample03.htm"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"36",
+			"taisteluJaskaSound",
+			"taistelujaskaSound",
+			"> 4",
+			");\n",
+			"ctx.clearRect(150, 200, 200, 110);",
+			"120",
+			"ctx.clearRect(150, 200, 200, 110);",
+			"filltext",
+			"angle",
+			"arc",
+			"angle",
+			"i =",
+			"startAngle",
+			"insiderad",
+			"ctx.arc",
+			"arc",
+			"angle",
+			"insidera",
+			"arc",
+			"spinning",
+			"spinning = true",
+			"true",
+			"notSpinning",
+			"spinnin",
+			"spinning",
+			"spinnin",
+			"remove",
+			"spin auto",
+			"spin",
+			"isbreak",
+			"istrea",
+			"fanfare",
+			"ispomod",
+			"isPomodoroLengthFunction",
+			"isBreakFunction",
+			"isTreatFunction",
+			"isBreak",
+			"isTreatFunction",
+			"istrea",
+			"treat",
+			"isBreak",
+			"treat",
+			"get stuff",
+			"break",
+			"istreat",
+			"isbrea",
+			"istrea",
+			"break",
+			"treat",
+			"spin",
+			"0.2",
+			"fanfareSound = new buzz.sound(\"Final Fantasy 6 Victory Fanfare.mp3\", {\n  preload: true,",
+			"fina",
+			"fanfare",
+			"141",
+			"rotate",
+			"rota",
+			";",
+			"vara",
+			"var",
+			"vara",
+			"\"",
+			"true",
+			"userChoice",
+			"I'm a professional entrepreneur in hospitality business for over 16 years. More over, I've worked for over 45 years on multiple international hospitality businesses. I've also worked for over 20 different boards of directors in a way that emphasizes results oriented, long-term commitment.  I've been selected as the Hospitality Business Person of the Year in 2009 by the RestonomiFoorumi, an organization which consists of hospitality business alumni in Finland. I've completed an academic degree in three countries: Finland, Sweden and in the United States (Cornell University). In Cornell, I was awarded academic honors for being included in the Dean's List, which included mere 2% of all students. Ethical Leadership is something that interests and comes naturally to me. It is easy for me to earn the trust of my employees, partners, customers and superiors. ",
+			"var",
+			"%20",
+			"indent",
+			"40",
+			"rotatewheel",
+			"pomodoronumbermin",
+			"rotatewhee",
+			"console",
+			"POMODORO",
+			"debu",
+			"rotatewheel",
+			"startang",
+			"spin",
+			"62",
+			"startangle",
+			"drawroulette",
+			"drawroulettewheel",
+			"startangle",
+			"start",
+			"dra",
+			"drawn",
+			"drawRouletteWheelRouletteWheel",
+			"drawRouletteWheel",
+			"draw",
+			"minim",
+			"mini",
+			"minim",
+			"--",
+			"ret",
+			"clearRect",
+			"ctx.clearRect(163, 155, 175, 175);",
+			"text",
+			");\n",
+			"treat",
+			"mySound",
+			"30",
+			");\n",
+			"startTimer",
+			"coutdown",
+			"console.log",
+			"drawRouletteWheel",
+			"wheel",
+			">\n",
+			"30pt",
+			"center",
+			");\n",
+			"tz",
+			"spin",
+			"function",
+			"spin",
+			"></",
+			"spin",
+			"restaurants",
+			"//    	",
+			"ctx.restore",
+			"time",
+			"t",
+			"text",
+			"restauran",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rulette.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1123,
+								1123
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"side_bar_folders_auto_load_folder": 1,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1418424688.59,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_moving":
+							[
+								2,
+								0
+							],
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rulette.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1062,
+								1062
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"side_bar_folders_auto_load_folder": 1,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tabs_extra_last_activated": 1418424736.77,
+							"tabs_extra_last_activated_sheet_index": 1
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 114.0
+	},
+	"project": "pomodoro timer.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rulett",
+				"rulette.html"
+			],
+			[
+				"htm",
+				"rulette.html"
+			],
+			[
+				"rule",
+				"rulette.js"
+			],
+			[
+				"",
+				"rulette.js"
+			],
+			[
+				"js",
+				"rulette.js"
+			],
+			[
+				"css",
+				"rulette.css"
+			],
+			[
+				"ru",
+				"rulette.html"
+			],
+			[
+				"pomo",
+				"pomodoro.html"
+			],
+			[
+				"demo",
+				"demo.html"
+			],
+			[
+				"todo",
+				"Ch05\\MathObjectRandomExample01.htm"
+			],
+			[
+				"dragon",
+				"Ch03\\dragonSlayer.js"
+			],
+			[
+				".js",
+				"Ch03\\demo.js"
+			],
+			[
+				"tod",
+				"TODO"
+			],
+			[
+				"example",
+				"Ch18\\DomXPathExample08.htm"
+			],
+			[
+				"p",
+				"C:\\Users\\henri_000\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\henri_000\\Dropbox\\Pomodoro timer\\pomodoro timer.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
