@@ -2,8 +2,6 @@
 
 TODO
 - Test with 1 sec ticking sound
-- Jos pomo on yli 30 min saattaa olla pieni mahdollisuus, että saa uuden pyörityksen
-  > 1/20 tms
 
 * Jos breikin pituus on erityisen huono saattaa olla pieni mahdollisuus, että saa uuden pyörityksen
 * Taistelujaska mahdollisuus 1/10
