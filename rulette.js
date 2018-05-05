@@ -14,8 +14,8 @@ TODO
 * Set up a linux box to work as a shell
 * Set pomodoro time to the title
 * Refactor the whole code to use functions
-- ?
-- PROFIT
+* ?
+* PROFIT
 
 */
 
